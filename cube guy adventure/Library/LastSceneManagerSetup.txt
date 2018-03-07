@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/escenas/game over.unity
+  isLoaded: 1
+  isActive: 1
